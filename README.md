@@ -12,6 +12,8 @@ I build AI pipelines, automation systems, and full-stack applications. Self-taug
 
 **Multi-Agent Development Environment** — 6 concurrent AI coding agents running coordinated development workflows with MCP server integrations and shared context management.
 
+**[PromptLab](https://github.com/orianna1510-code/promptlab)** — CLI tool that analyzes prompts for quality across clarity, structure, and specificity. Scores on a 1-10 scale with actionable suggestions. No API key required. 31 tests passing.
+
 **Containerized Infrastructure** — Docker-based development environments on WSL2 Ubuntu for cross-platform tooling, service orchestration, and reproducible builds.
 
 ---
