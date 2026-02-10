@@ -6,9 +6,7 @@ I build AI pipelines, automation systems, and full-stack applications. Self-taug
 
 ## What I Build
 
-**Ultrathink** — Headless AI content generation pipeline built on n8n, ComfyUI, and Flux.2 models. Dual-track output (anime + photorealistic) with fully automated delivery. No GUI required.
-
-**[LOL-65B](https://github.com/orianna1510-code/lol-65b)** — Full-stack AI social platform where users generate, share, and compete with AI-generated memes. Built with Next.js, Python, and multi-provider AI integration. In active development.
+**[LOL-65B](https://github.com/orianna1510-code/lol-65b)** — Full-stack AI social platform with content generation, user authentication, and social features. Built with Next.js, Python, and multi-provider AI integration. In active development.
 
 **Multi-Agent Development Environment** — 6 concurrent AI coding agents running coordinated development workflows with MCP server integrations and shared context management.
 
