@@ -1,6 +1,6 @@
 # Orianna Arvelo Ramirez
 
-Self-taught developer building AI pipelines, automation tools, and full-stack applications. Nearly four years of team leadership experience. Currently transitioning into remote AI operations and DevOps roles.
+Self-taught developer building AI pipelines, automation tools, and full-stack applications. Nearly four years of team leadership experience. Open to remote opportunities in development, AI, automation, and technical operations.
 
 **[oriannadev.github.io](https://oriannadev.github.io)** — portfolio site
 
